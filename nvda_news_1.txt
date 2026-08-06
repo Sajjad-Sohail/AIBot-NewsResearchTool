@@ -1,0 +1,14 @@
+Nvidia Corporation (NASDAQ:NVDA) is a stock that Jim Cramer has stuck by despite the relatively weak share price performance as of late. They are up by a rather modest 3.3% year-to-date and are down by 2.5% over the past month. Cramer continues to believe that Nvidia Corporation (NASDAQ:NVDA) is among the top companies in the world and stands by its technology, which he believes is ushering in a new industrial revolution. However, his Monday morning remarks were rather curious and marked a slight shift over the previous position he had taken. While the CNBC tTV host continues to believe that Nvidia Corporation (NASDAQ:NVDA) is a great company, he believes that the upcoming earnings report needs a solid beat to assuage investor worries:
+
+"I just find myself defending a company that I really like. I believe in it, but it now has to beat the quarter. I think, the quarter has to be great, because the intra-quarter David, look at this, they're financing a lot of business and people keep saying it's Lucent. It's not Lucent. They have the balance sheet to do this. . . the difference is that Lucent had no balance sheet. NVIDIA's got the best balance sheet in the world."
+
+The reason Cramer discussed Nvidia Corporation (NASDAQ:NVDA)'s balance sheet was the firm's announcement that it would backstop OpenAI's massive data center in Ohio. He added that worries about the implications of the backstop might be overblown since the government was also a "subtle backstop" in all of this since it didn't want China to win the AI race. In a series of tweets, Cramer went as far as to liken Nvidia Corporation (NASDAQ:NVDA) to a central bank:
+
+If OpenAI gets massive funding then Nvidia's stock will go higher. But from this market? They have to try. They can't wait until next year.
+
+Tech that's not semi v. Nvidia. First National Bank of Nvidia is starting to really cause people to freak out..."
+
+
+As it makes the hardware for the AI revolution, the debate surrounding Nvidia Corporation (NASDAQ:NVDA) relates to whether its GPUs are the leading products in the market. Additionally, the scale of spending by hyperscalers and others on the GPUs is another key point of discussion. Nvidia Corporation (NASDAQ:NVDA)'s bulls believe that the competitive dynamics in big tech firms mean that the spending will remain robust. On the other hand, bears argue that the shift to inference from training, custom chips such as those from Amazon and Google and large short seller bets are some worrying factors. Particularly, the short seller bets could trigger a valuation compression in case investors perceive trouble.
+
+

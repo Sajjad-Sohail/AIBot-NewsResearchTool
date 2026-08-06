@@ -1,11 +1,12 @@
-📰 AI News Research Tool
+# 📰 AI News Research Tool
 
 An end-to-end Retrieval-Augmented Generation (RAG) application that enables users to ask natural language questions about online news articles and receive AI-generated answers with source attribution.
 
 The application ingests news articles from URLs, creates semantic embeddings, stores them in a FAISS vector database, retrieves the most relevant content based on user queries, and generates contextual answers using OpenAI's language models.
 
+---
 
-🚀 Features
+## 🚀 Features
 
 - 🔗 Load multiple news articles from URLs
 - ✂️ Automatic document chunking
@@ -79,10 +80,21 @@ The application ingests news articles from URLs, creates semantic embeddings, st
 - FAISS
 - python-dotenv
 
-📷 Screenshots
+---
 
+## 📷 Screenshots
 
-⚙️ Installation
+### Main Interface
+
+_Add screenshot here_
+
+### AI Response
+
+_Add screenshot here_
+
+---
+
+## ⚙️ Installation
 
 Clone the repository
 
@@ -125,7 +137,7 @@ streamlit run main.py
 
 ---
 
-💡 How It Works
+## 💡 How It Works
 
 1. Enter one or more news article URLs.
 2. Click **Process URLs**.
@@ -137,7 +149,9 @@ streamlit run main.py
 8. GPT generates an answer using only the retrieved context.
 9. Sources are displayed alongside the answer.
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
 
 ```
 AIBot-NewsResearchTool/
@@ -149,8 +163,9 @@ AIBot-NewsResearchTool/
 └── .env.example
 ```
 
+---
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 - PDF document support
 - Conversation memory
@@ -163,8 +178,9 @@ AIBot-NewsResearchTool/
 - Chat history
 - Docker deployment
 
+---
 
-📚 AI Concepts Demonstrated
+## 📚 AI Concepts Demonstrated
 
 - Retrieval-Augmented Generation (RAG)
 - Semantic Search
@@ -175,7 +191,9 @@ AIBot-NewsResearchTool/
 - Streaming LLM Responses
 - Source Attribution
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 
 **Sajjad Sohail**
 

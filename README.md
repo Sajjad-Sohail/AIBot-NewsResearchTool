@@ -90,14 +90,6 @@ The application ingests news articles from URLs, creates semantic embeddings, st
 ### <img width="1910" height="886" alt="image" src="https://github.com/user-attachments/assets/e494208c-bccf-46f4-bde9-f99a6f0651f5" />
 
 
-
-
-_Add screenshot here_
-
-### AI Response
-
-_Add screenshot here_
-
 ---
 
 ## ⚙️ Installation

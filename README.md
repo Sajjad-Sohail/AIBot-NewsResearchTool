@@ -85,6 +85,11 @@ The application ingests news articles from URLs, creates semantic embeddings, st
 ## 📷 Screenshots
 
 ### <img width="1909" height="873" alt="image" src="https://github.com/user-attachments/assets/d31188f3-91fc-4407-b563-1e72794df2fd" />
+### <img width="1903" height="836" alt="image" src="https://github.com/user-attachments/assets/256f3eb9-173e-4bdb-b751-2cc178da46c6" />
+### <img width="1903" height="849" alt="image" src="https://github.com/user-attachments/assets/12bd9713-fb50-428a-8819-052b7d24a634" />
+### <img width="1910" height="886" alt="image" src="https://github.com/user-attachments/assets/e494208c-bccf-46f4-bde9-f99a6f0651f5" />
+
+
 
 
 _Add screenshot here_

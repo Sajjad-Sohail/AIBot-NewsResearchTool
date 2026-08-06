@@ -16,9 +16,12 @@ The application ingests news articles from URLs, creates semantic embeddings, st
 - 📄 Source attribution with clickable article links
 - 🎯 Retrieval-Augmented Generation (RAG) architecture
 
-🏗️ Architecture
+---
 
-       Ingestion Pipeline
+## 🏗️ Architecture
+
+```
+                 Ingestion Pipeline
 
           News URLs
                │
@@ -38,7 +41,7 @@ The application ingests news articles from URLs, creates semantic embeddings, st
          Save Index to Disk
 
 
-         Query Pipeline
+               Query Pipeline
 
          User Question
                │
@@ -62,8 +65,11 @@ The application ingests news articles from URLs, creates semantic embeddings, st
                │
                ▼
       Answer + Source Links
+```
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 - Python 3.11
 - Streamlit
